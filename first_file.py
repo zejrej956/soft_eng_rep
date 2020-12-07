@@ -3,7 +3,7 @@ print("Hello, Earth!")
 print("Hello, Uranus!")
 
 def div(x, y):
-    return x/y
+    return x/p
 
 if __name__ == "__main__":
     s = div(1,2)
